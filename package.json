@@ -1,0 +1,10 @@
+// package.json
+{
+  "name": "fyxzpedia-site",
+  "version": "1.0.0",
+  "description": "Link profile Fyxzpedia Site - semua ikon murni CSS",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Situs statis siap deploy ke Vercel'"
+  }
+}
